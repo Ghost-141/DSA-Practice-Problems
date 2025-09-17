@@ -1,5 +1,4 @@
-from typing import List
-def moveZeroes(nums: List[int]) -> None:
+def moveZeroes(nums: list[int]) -> None:
     """
     Do not return anything, modify nums in-place instead.
     """
